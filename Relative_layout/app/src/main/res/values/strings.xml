@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Relative_layout</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="btn">Button</string>
+</resources>
