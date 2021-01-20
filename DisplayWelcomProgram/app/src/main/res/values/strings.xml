@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DisplayWelcomProgram</string>
+    <string name="textName_hint">Please Enter Your Name</string>
+    <string name="btnDisplaytxt">Display</string>
+</resources>
