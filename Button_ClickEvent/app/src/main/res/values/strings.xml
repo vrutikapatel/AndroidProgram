@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Button_ClickEvent</string>
+    <string name="hint">Please Enter Your Name</string>
+    <string name="btn">Display</string>
+</resources>
