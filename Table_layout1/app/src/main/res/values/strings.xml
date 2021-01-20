@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Table_layout1</string>
+    <string name="row1">Row 1</string>
+    <string name="row2column1">Row 2 Column 1</string>
+    <string name="row2column2">Row 2 Column 2</string>
+    <string name="row2column3">Row 2 Column 3</string>
+    <string name="row3column1">Row 3 Column 1</string>
+    <string name="row3column2">Row 3 Column 2</string>
+</resources>
