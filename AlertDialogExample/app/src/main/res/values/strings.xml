@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alert Dialog</string>
+    <string name="exit">Exit</string>
+    <string name="click_over_button_to_exit">Alert Dialog</string>
+</resources>
